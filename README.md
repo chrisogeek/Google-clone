@@ -1,4 +1,4 @@
-# Find the difference : Google clone :tw-1f4bb: 
+# Find the difference : Google clone
 This project presents a faithful imitation of the landing page of google.
 
 In this project  i'm using html, css, and this landing is 100% responsive
@@ -25,4 +25,4 @@ Please make sure to update tests as appropriate.
 ------------
 
 
-> **This is not the end, it is only the beginning ...** :tw-1f680:
+> **This is not the end, it is only the beginning ...** :dragon_face:
