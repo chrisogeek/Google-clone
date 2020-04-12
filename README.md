@@ -1,13 +1,9 @@
 # Find the difference : Google clone
 This project presents a faithful imitation of the landing page of google.
 
-In this project  i'm using html, css, and this landing is 100% responsive
+In this project  i'm using html, css, and this landing is 100% responsive.
 
 Clone my clone and have fun.
-
-## Demo
-
-You can see the landing page here [Google Clone](file:///C:/Users/JULIO/OneDrive%20-%20GEOS%20Holding/Documentos/Google_clone_project/index.html "Google Clone")
 
 ## Preview
 ![](https://github.com/chrisogeek/Google-clone/blob/master/Google%20clone.png)
